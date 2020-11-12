@@ -1,18 +1,18 @@
 export const products = [
   {
-    name: 'Phone XL',
+    name: 'Logo Design',
     price: 799,
-    description: 'A large phone with one of the best screens'
+    description: 'A logo designed for your brand or company'
   },
   {
-    name: 'Phone Mini',
-    price: 699,
-    description: 'A great phone with one of the best cameras'
+    name: 'Cover Art',
+    price: 45,
+    description: 'Cover art for an album or song'
   },
   {
-    name: 'Phone Standard',
-    price: 299,
-    description: ''
+    name: 'Event Flyer',
+    price: 40,
+    description: 'Flyer or poster designed for an event'
   }
 ];
 
